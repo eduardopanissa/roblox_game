@@ -74,3 +74,71 @@ Semana 4:
 Extra:
   → https://www.youtube.com/watch?v=aT7AUgU0VVc
 
+# 🎨 Curso Progressivo de Modelagem 3D com Blender para Roblox Studio
+
+**Objetivo:** Aprender modelagem 3D low-poly usando o Blender, com foco na criação de assets para jogos no Roblox Studio.
+
+---
+
+## 📅 Cronograma de 4 Semanas
+
+### 🧱 Semana 1 – Iniciantes no Blender (Interface + Primeiros Objetos Low‑Poly)
+
+- **PT‑BR:**  
+  [BLENDER 3D – Tutorial definitivo para Iniciantes (PT‑BR)](https://www.youtube.com/watch?v=QX_D7uhqGfI)
+
+- **EN:**  
+  [Blender Tutorial for Beginners (2025)](https://www.youtube.com/watch?v=Ci3Has4L5W4)
+
+---
+
+### 🧱 Semana 2 – Modelagem Low‑Poly para Jogos
+
+- **PT‑BR:**  
+  [Passo a Passo Completo! Personagem 3D Low Poly!](https://www.youtube.com/watch?v=ar_a9rvElAg)
+
+- **EN:**  
+  [Beginner Blender 4.2 Tutorial: Modelling a Low‑Poly Well](https://www.youtube.com/watch?v=QPh8h0hWkg0)
+
+---
+
+### 🧵 Semana 3 – UV Mapping e Texturização Básica
+
+- **PT‑BR:**  
+  [Introdução ao Mapeamento UV no Blender │ Unwrap (vídeo PT‑BR)](https://www.youtube.com/watch?v=Yj5zGsHTSUY)
+
+- **EN:**  
+  [How to UV Unwrap in Blender (Step by Step) 2025](https://www.youtube.com/watch?v=tOQ_JQlnSsk)
+
+---
+
+### 📦 Semana 4 – Exportação FBX & Importação para Roblox Studio
+
+- **EN (principal):**  
+  [How to Import Blender Models to Roblox Studio in 2025](https://www.youtube.com/watch?v=aT7AUgU0VVc)
+
+- **EN (complementar):**  
+  [How To Import Models From Blender To Roblox Studio!!!](https://www.youtube.com/watch?v=Z13s-yYr9VM)
+
+---
+
+## ✅ Resumo dos Links
+
+```text
+Semana 1:
+  PT‑BR → https://www.youtube.com/watch?v=QX_D7uhqGfI
+  EN    → https://www.youtube.com/watch?v=Ci3Has4L5W4
+
+Semana 2:
+  PT‑BR → https://www.youtube.com/watch?v=ar_a9rvElAg
+  EN    → https://www.youtube.com/watch?v=QPh8h0hWkg0
+
+Semana 3:
+  PT‑BR → https://www.youtube.com/watch?v=Yj5zGsHTSUY
+  EN    → https://www.youtube.com/watch?v=tOQ_JQlnSsk
+
+Semana 4:
+  EN    → https://www.youtube.com/watch?v=aT7AUgU0VVc
+  Extra → https://www.youtube.com/watch?v=Z13s-yYr9VM
+
+
