@@ -1,144 +1,112 @@
-# 🚀 Curso Progressivo para Programador Roblox Studio + Lua
+# 🧠 Curso Completo para Criadores Roblox – Programador + Modelador 3D
 
-**Objetivo:** Aprender a programar jogos no Roblox Studio com Lua, cobrindo desde os fundamentos até a monetização com GamePasses e integração com modelos 3D.
+Este repositório reúne um curso completo dividido em duas trilhas:  
+🔹 **Programação com Lua para Roblox Studio**  
+🔸 **Modelagem 3D com Blender focada em Roblox Studio**
 
----
-
-## 📅 Cronograma de 4 Semanas
-
-### 📌 Semana 1 – Fundamentos do Roblox Studio + Lua
-
-- **PT‑BR:**  
-  [EP 01 – Crie um JOGO COMPLETO no Roblox do ZERO](https://www.youtube.com/watch?v=5qcIo1ifKBk)
-
-- **EN:**  
-  [Roblox Studio Basics – Beginner Scripting Tutorial (2025)](https://www.youtube.com/watch?v=9MUgLaF22Yo)
+Ideal para iniciantes, adolescentes ou adultos que queiram aprender a criar jogos completos para Roblox.
 
 ---
 
-### 📌 Semana 2 – Coletáveis & Eventos (Touched, ClickDetector, instâncias)
+## 👨‍💻 Trilha 1 – Programador Roblox (Lua + Roblox Studio)
 
-- **PT‑BR:**  
-  [EP 05 – Estruturas de Repetição (Loops) no Roblox Studio – Guia Intensivo](https://www.youtube.com/watch?v=4Lw9i7lmg3k)
+Aprenda lógica de programação, linguagem Lua e como criar scripts para jogos usando o Roblox Studio.
 
-- **EN:**  
-  [Roblox Luau Course – Episode 1: Fundamentals](https://www.youtube.com/watch?v=CBOEbMD9zMA)
+### 📅 Semana 1 – Introdução à Lógica e Interface do Roblox Studio
 
----
-
-### 📌 Semana 3 – Scoreboard, leaderstats & comunicação cliente‑servidor
-
-- **PT‑BR:**  
-  [GUIA COMPLETO para APRENDER a PROGRAMAR no ROBLOX Studio (DataStore, leaderboard, RemoteEvent)](https://www.youtube.com/watch?v=Tnwt8gNDEHI)
-
-- **EN:**  
-  [Learn How to Script in Roblox in 5 Minutes (Beginner Tutorial)](https://www.youtube.com/watch?v=wQScL7L1bOo)
+- [🎥 Como Programar em Lua - Aula 01 (Variáveis, Operadores e Comentários)](https://www.youtube.com/watch?v=ZoXkJ6t-HkY)  
+- [🎥 Curso Roblox Studio Aula 01 – Como usar a Interface](https://www.youtube.com/watch?v=0UrpQcgSz-Y)
 
 ---
 
-### 📌 Semana 4 – Monetização: GamePasses e Dev Products
+### 📅 Semana 2 – Eventos e Scripts no Roblox Studio
 
-- **PT‑BR:**  
-  [COMO CRIAR GAMEPASS no ROBLOX (PC e CELULAR – atualizado 2025)](https://www.youtube.com/watch?v=CEZvduGdsy0)
-
-- **EN:**  
-  [How To Sell Items And Create A GamePass On PLS Donate (2025)](https://www.youtube.com/watch?v=W78BFcxe5Lg)
+- [🎥 Curso Roblox Studio Aula 02 – Eventos e Funções](https://www.youtube.com/watch?v=NGXogRLTcFo)  
+- [🎥 Curso Roblox Studio Aula 04 – Scripts e LocalScripts](https://www.youtube.com/watch?v=gfzNGHqMHu4)
 
 ---
 
-### ✳️ Extra – Importação de Modelos 3D (Blender → Roblox Studio)
+### 📅 Semana 3 – Funções, Condicionais e Laços
 
-- [How to Import Blender Models to Roblox Studio in 2025](https://www.youtube.com/watch?v=aT7AUgU0VVc)
-
----
-
-## ✅ Resumo dos Links
-
-```text
-Semana 1:
-  PT‑BR → https://www.youtube.com/watch?v=5qcIo1ifKBk
-  EN    → https://www.youtube.com/watch?v=9MUgLaF22Yo
-
-Semana 2:
-  PT‑BR → https://www.youtube.com/watch?v=4Lw9i7lmg3k
-  EN    → https://www.youtube.com/watch?v=CBOEbMD9zMA
-
-Semana 3:
-  PT‑BR → https://www.youtube.com/watch?v=Tnwt8gNDEHI
-  EN    → https://www.youtube.com/watch?v=wQScL7L1bOo
-
-Semana 4:
-  PT‑BR → https://www.youtube.com/watch?v=CEZvduGdsy0
-  EN    → https://www.youtube.com/watch?v=W78BFcxe5Lg
-
-Extra:
-  → https://www.youtube.com/watch?v=aT7AUgU0VVc
-
-# 🎨 Curso Progressivo de Modelagem 3D com Blender para Roblox Studio
-
-**Objetivo:** Aprender modelagem 3D low-poly usando o Blender, com foco na criação de assets para jogos no Roblox Studio.
+- [🎥 Como Programar em Lua - Aula 02 – Condicionais e Funções](https://www.youtube.com/watch?v=aHwOXJvYltA)  
+- [🎥 Como Programar em Lua - Aula 03 – Laços e Arrays](https://www.youtube.com/watch?v=mK0Fc6kqM7Y)
 
 ---
 
-## 📅 Cronograma de 4 Semanas
+### 📅 Semana 4 – Scripts Interativos (Botões e Teleporte)
 
-### 🧱 Semana 1 – Iniciantes no Blender (Interface + Primeiros Objetos Low‑Poly)
-
-- **PT‑BR:**  
-  [BLENDER 3D – Tutorial definitivo para Iniciantes (PT‑BR)](https://www.youtube.com/watch?v=QX_D7uhqGfI)
-
-- **EN:**  
-  [Blender Tutorial for Beginners (2025)](https://www.youtube.com/watch?v=Ci3Has4L5W4)
+- [🎥 Como Mover um Objeto com Botão no Roblox](https://www.youtube.com/watch?v=DhnhCmt0mdg)  
+- [🎥 Como Criar Teleporte no Roblox Studio](https://www.youtube.com/watch?v=5ymovB1Z0S4)
 
 ---
 
-### 🧱 Semana 2 – Modelagem Low‑Poly para Jogos
+## 🎨 Trilha 2 – Modelador 3D para Roblox (Blender + Studio)
 
-- **PT‑BR:**  
-  [Passo a Passo Completo! Personagem 3D Low Poly!](https://www.youtube.com/watch?v=ar_a9rvElAg)
+Aprenda modelagem 3D low-poly no Blender e como exportar seus modelos para Roblox Studio.
 
-- **EN:**  
-  [Beginner Blender 4.2 Tutorial: Modelling a Low‑Poly Well](https://www.youtube.com/watch?v=QPh8h0hWkg0)
+### 📅 Semana 1 – Interface do Blender e Modelagem Básica
 
----
-
-### 🧵 Semana 3 – UV Mapping e Texturização Básica
-
-- **PT‑BR:**  
-  [Introdução ao Mapeamento UV no Blender │ Unwrap (vídeo PT‑BR)](https://www.youtube.com/watch?v=Yj5zGsHTSUY)
-
-- **EN:**  
-  [How to UV Unwrap in Blender (Step by Step) 2025](https://www.youtube.com/watch?v=tOQ_JQlnSsk)
+- [🎥 BLENDER 3D – Tutorial definitivo para Iniciantes (PT-BR)](https://www.youtube.com/watch?v=QX_D7uhqGfI)  
+- [🎥 Blender Tutorial for Beginners (EN)](https://www.youtube.com/watch?v=Ci3Has4L5W4)
 
 ---
 
-### 📦 Semana 4 – Exportação FBX & Importação para Roblox Studio
+### 📅 Semana 2 – Modelagem Low-Poly
 
-- **EN (principal):**  
-  [How to Import Blender Models to Roblox Studio in 2025](https://www.youtube.com/watch?v=aT7AUgU0VVc)
-
-- **EN (complementar):**  
-  [How To Import Models From Blender To Roblox Studio!!!](https://www.youtube.com/watch?v=Z13s-yYr9VM)
+- [🎥 Personagem 3D Low-Poly – Passo a Passo (PT-BR)](https://www.youtube.com/watch?v=ar_a9rvElAg)  
+- [🎥 Modelling a Low-Poly Well – Blender 4.2 (EN)](https://www.youtube.com/watch?v=QPh8h0hWkg0)
 
 ---
 
-## ✅ Resumo dos Links
+### 📅 Semana 3 – UV Mapping e Texturização
 
-```text
-Semana 1:
-  PT‑BR → https://www.youtube.com/watch?v=QX_D7uhqGfI
-  EN    → https://www.youtube.com/watch?v=Ci3Has4L5W4
+- [🎥 Introdução ao Mapeamento UV no Blender (PT-BR)](https://www.youtube.com/watch?v=Yj5zGsHTSUY)  
+- [🎥 UV Unwrap no Blender – Tutorial (EN)](https://www.youtube.com/watch?v=tOQ_JQlnSsk)
 
-Semana 2:
-  PT‑BR → https://www.youtube.com/watch?v=ar_a9rvElAg
-  EN    → https://www.youtube.com/watch?v=QPh8h0hWkg0
+---
 
-Semana 3:
-  PT‑BR → https://www.youtube.com/watch?v=Yj5zGsHTSUY
-  EN    → https://www.youtube.com/watch?v=tOQ_JQlnSsk
+### 📅 Semana 4 – Exportar Modelos para o Roblox Studio
 
-Semana 4:
-  EN    → https://www.youtube.com/watch?v=aT7AUgU0VVc
-  Extra → https://www.youtube.com/watch?v=Z13s-yYr9VM
+- [🎥 Como Importar Modelos do Blender para o Roblox Studio (EN)](https://www.youtube.com/watch?v=aT7AUgU0VVc)  
+- [🎥 Tutorial Extra – Importando do Blender para Roblox Studio](https://www.youtube.com/watch?v=Z13s-yYr9VM)
 
+---
+
+## 📦 Requisitos
+
+- ✅ **Roblox Studio** instalado  
+- ✅ **Blender 3.6+** instalado  
+- ✅ Dedicação de 2h a 5h por semana  
+- ✅ Ideal para quem deseja aprender criando na prática
+
+---
+
+## 💡 Dicas
+
+- Use **modelos low-poly** para garantir boa performance no Roblox.  
+- Aprenda a usar o **Asset Manager** do Roblox Studio para importar arquivos `.fbx`.  
+- Para scripts: comece com objetos interativos como botões, portas, teleportes, etc.
+
+---
+
+## ✨ Próximos Passos (opcional)
+
+Se você concluir as duas trilhas, poderá criar jogos e mapas **completos e personalizados**, incluindo:
+
+- UI com botões e menus
+- Cenários 3D otimizados
+- Scripts interativos multiplayer
+- Sistema de moedas, lojas, rankings etc.
+
+---
+
+## 🔗 Créditos e Fontes
+
+Este curso foi organizado a partir de vídeos gratuitos no YouTube de criadores como:
+
+- **Marcos Tadeu (Curso Roblox Studio)**  
+- **Rodrigo Ferreira (Curso Lua)**  
+- **Blender Guru e outros canais internacionais**
+
+---
 
