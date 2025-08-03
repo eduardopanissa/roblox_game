@@ -94,5 +94,4 @@ Este curso foi organizado com base em vídeos gratuitos disponíveis no YouTube,
 
 ---
 
-📝 Se quiser, posso te enviar esse conteúdo como um arquivo `.md` diretamente no seu repositório do GitHub. É só colar o texto acima e ele já estará pronto para uso!
 
